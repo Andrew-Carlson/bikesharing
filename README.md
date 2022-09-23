@@ -38,7 +38,7 @@ Tableau's data visualization capabilities helped elucidate trends regarding Citi
 * Touristic areas get more riders.
 * Typically around ten minutes is the most common duration of a ride which is important when considering the distance between stations. 
 
-### Additional visualizations created for additional insight:<br/><br/>
+### Additional visualizations created for more insight:<br/><br/>
 ![Average_Age_Usertype](./images/age_usertype.png)<br/><br/>
 * The above graph shows the average age for subscribed versus unsubscribed users. 
 * Slightly younger individuals tend to become subscribers.<br/><br/>
