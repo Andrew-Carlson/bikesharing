@@ -30,4 +30,18 @@ For this project, the data visualization software Tableau will be employed to vi
 * Similarly as the previous visualization, the map above shows the difference in popularity of different ride ending locations.
 * As indicated in the text box, the more popular ending locations are similar to the more popular starting locations. <br/><br/>
 ## Summary 
+Tableau's data visualization capabilities helped elucidate trends regarding Citi Bike data for New York City for August, 2019. Some of the key points to consider for when creating a bike-sharing application for the city of Des Moines, Iowa are as follows:
+* With Thursday being the day where the most trips occurred during August of 2019, the busiest times of the day was 8 a.m. in the morning and 5 p.m. to 7. p.m. in the evening.
+* The least amount of trips occur during the late night and early morning.
+* The greatest amount of trips is generally in the evenings and closer to the weekend.
+* Males make up the majority of Citi Bike riders (63.5% of riders).
+* Touristic areas get more riders.
+* Typically around ten minutes is the most common duration of a ride which is important when considering the distance between stations. 
 
+### Additional visualizations created for additional insight:<br/><br/>
+![Average_Age_Usertype](./images/age_usertype.png)<br/><br/>
+* The above graph shows the average age for subscribed versus unsubscribed users. 
+* Slightly younger individuals tend to become subscribers.<br/><br/>
+![Age_vs_Trips](./images/age_vs_trips.png)<br/><br/>
+* Riders are most commonly between the age of 25 to 30 years old, but many are generally between 20 and 30. 
+* There is an anomalous spike in the number of trips for 50 year old riders.
